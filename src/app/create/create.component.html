@@ -1,0 +1,11 @@
+<div class="left">
+  <label for="name">Demo Name:</label>
+  <input #name type="text" name="name" id="name" autocomplete="off" required />
+
+  <label for="url">Demo Url:</label>
+  <input #url type="text" name="url" id="url" autocomplete="off" required />
+
+  <button class="add-btn" (click)="addDemo(name.value, url.value)">
+    Add Demo
+  </button>
+</div>

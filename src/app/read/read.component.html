@@ -1,0 +1,11 @@
+<div class="right" *ngIf="demos$">
+  <h1>Ngrx Demo</h1>
+  <ul>
+    <li *ngFor="let demo of demos$ | async; let i = index">
+      <a [href]="demo.url" (click)="log(demo)" target="_blank">
+        {{ demo.name }}
+      </a>
+      <button class="delete-btn" (click)="removeDemo(i)">Delete</button>
+    </li>
+  </ul>
+</div>
