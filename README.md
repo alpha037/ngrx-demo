@@ -1,3 +1,7 @@
+![ngrx](https://github.com/alpha037/ngrx-demo/blob/master/src/assets/img/ngrx.png)
+
+### Check out [@ngrx/store](https://www.npmjs.com/package/@ngrx/store)
+
 # NgrxDemoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
