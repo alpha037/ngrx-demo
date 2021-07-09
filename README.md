@@ -1,3 +1,7 @@
+<a href="https://atlas.shubhranil.com" target="\_blank">
+<img src="https://img.shields.io/badge/Developed%20and%20Maintained%20by-Atlas%20Inc-blue">
+</a>
+
 ![ngrx](https://github.com/alpha037/ngrx-demo/blob/master/src/assets/img/ngrx.png)
 
 ### Check out [@ngrx/store](https://www.npmjs.com/package/@ngrx/store)
